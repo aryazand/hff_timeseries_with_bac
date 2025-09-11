@@ -26,7 +26,7 @@ priority 2
 	parent mock_dmso_pro-seq
 	shortLabel mock_dmso_pro-seq_forwrad
 	longLabel mock_dmso_pro-seq_forward
-	bigDataUrl ../../../bw/mock_dmso_pro-seq_cmv_tb40e_bac_for.bw
+	bigDataUrl https://raw.githubusercontent.com/aryazand/hff_timeseries-cmv_tb40e_bac/refs/heads/main/bw/mock_dmso_pro-seq_cmv_tb40e_bac_for.bw
 	type bigWig
 	color 113,35,124
 	altColor 113,35,124
@@ -36,7 +36,7 @@ priority 2
 	parent mock_dmso_pro-seq
 	shortLabel mock_dmso_pro-seq_reverse
 	longLabel mock_dmso_pro-seq_reverse
-	bigDataUrl ../../../bw/mock_dmso_pro-seq_cmv_tb40e_bac_rev.bw
+	bigDataUrl https://raw.githubusercontent.com/aryazand/hff_timeseries-cmv_tb40e_bac/refs/heads/main/bw/mock_dmso_pro-seq_cmv_tb40e_bac_rev.bw
 	type bigWig
 	negateValues on
 	color 242,157,228
@@ -61,7 +61,7 @@ priority 2
 	parent mock_flavo_pro-seq
 	shortLabel mock_flavo_pro-seq_forwrad
 	longLabel mock_flavo_pro-seq_forward
-	bigDataUrl ../../../bw/mock_flavo_pro-seq_cmv_tb40e_bac_for.bw
+	bigDataUrl https://raw.githubusercontent.com/aryazand/hff_timeseries-cmv_tb40e_bac/refs/heads/main/bw/mock_flavo_pro-seq_cmv_tb40e_bac_for.bw
 	type bigWig
 	color 113,35,124
 	altColor 113,35,124
@@ -71,7 +71,7 @@ priority 2
 	parent mock_flavo_pro-seq
 	shortLabel mock_flavo_pro-seq_reverse
 	longLabel mock_flavo_pro-seq_reverse
-	bigDataUrl ../../../bw/mock_flavo_pro-seq_cmv_tb40e_bac_rev.bw
+	bigDataUrl https://raw.githubusercontent.com/aryazand/hff_timeseries-cmv_tb40e_bac/refs/heads/main/bw/mock_flavo_pro-seq_cmv_tb40e_bac_rev.bw
 	type bigWig
 	negateValues on
 	color 242,157,228
@@ -96,7 +96,7 @@ priority 2
 	parent 4_hpi_dmso_pro-seq
 	shortLabel 4_hpi_dmso_pro-seq_forwrad
 	longLabel 4_hpi_dmso_pro-seq_forward
-	bigDataUrl ../../../bw/4_hpi_dmso_pro-seq_cmv_tb40e_bac_for.bw
+	bigDataUrl https://raw.githubusercontent.com/aryazand/hff_timeseries-cmv_tb40e_bac/refs/heads/main/bw/4_hpi_dmso_pro-seq_cmv_tb40e_bac_for.bw
 	type bigWig
 	color 113,35,124
 	altColor 113,35,124
@@ -106,7 +106,7 @@ priority 2
 	parent 4_hpi_dmso_pro-seq
 	shortLabel 4_hpi_dmso_pro-seq_reverse
 	longLabel 4_hpi_dmso_pro-seq_reverse
-	bigDataUrl ../../../bw/4_hpi_dmso_pro-seq_cmv_tb40e_bac_rev.bw
+	bigDataUrl https://raw.githubusercontent.com/aryazand/hff_timeseries-cmv_tb40e_bac/refs/heads/main/bw/4_hpi_dmso_pro-seq_cmv_tb40e_bac_rev.bw
 	type bigWig
 	negateValues on
 	color 242,157,228
@@ -131,7 +131,7 @@ priority 2
 	parent 4_hpi_flavo_pro-seq
 	shortLabel 4_hpi_flavo_pro-seq_forwrad
 	longLabel 4_hpi_flavo_pro-seq_forward
-	bigDataUrl ../../../bw/4_hpi_flavo_pro-seq_cmv_tb40e_bac_for.bw
+	bigDataUrl https://raw.githubusercontent.com/aryazand/hff_timeseries-cmv_tb40e_bac/refs/heads/main/bw/4_hpi_flavo_pro-seq_cmv_tb40e_bac_for.bw
 	type bigWig
 	color 113,35,124
 	altColor 113,35,124
@@ -141,7 +141,7 @@ priority 2
 	parent 4_hpi_flavo_pro-seq
 	shortLabel 4_hpi_flavo_pro-seq_reverse
 	longLabel 4_hpi_flavo_pro-seq_reverse
-	bigDataUrl ../../../bw/4_hpi_flavo_pro-seq_cmv_tb40e_bac_rev.bw
+	bigDataUrl https://raw.githubusercontent.com/aryazand/hff_timeseries-cmv_tb40e_bac/refs/heads/main/bw/4_hpi_flavo_pro-seq_cmv_tb40e_bac_rev.bw
 	type bigWig
 	negateValues on
 	color 242,157,228
@@ -166,7 +166,7 @@ priority 2
 	parent 12_hpi_dmso_pro-seq
 	shortLabel 12_hpi_dmso_pro-seq_forwrad
 	longLabel 12_hpi_dmso_pro-seq_forward
-	bigDataUrl ../../../bw/12_hpi_dmso_pro-seq_cmv_tb40e_bac_for.bw
+	bigDataUrl https://raw.githubusercontent.com/aryazand/hff_timeseries-cmv_tb40e_bac/refs/heads/main/bw/12_hpi_dmso_pro-seq_cmv_tb40e_bac_for.bw
 	type bigWig
 	color 113,35,124
 	altColor 113,35,124
@@ -176,7 +176,7 @@ priority 2
 	parent 12_hpi_dmso_pro-seq
 	shortLabel 12_hpi_dmso_pro-seq_reverse
 	longLabel 12_hpi_dmso_pro-seq_reverse
-	bigDataUrl ../../../bw/12_hpi_dmso_pro-seq_cmv_tb40e_bac_rev.bw
+	bigDataUrl https://raw.githubusercontent.com/aryazand/hff_timeseries-cmv_tb40e_bac/refs/heads/main/bw/12_hpi_dmso_pro-seq_cmv_tb40e_bac_rev.bw
 	type bigWig
 	negateValues on
 	color 242,157,228
@@ -201,7 +201,7 @@ priority 2
 	parent 12_hpi_flavo_pro-seq
 	shortLabel 12_hpi_flavo_pro-seq_forwrad
 	longLabel 12_hpi_flavo_pro-seq_forward
-	bigDataUrl ../../../bw/12_hpi_flavo_pro-seq_cmv_tb40e_bac_for.bw
+	bigDataUrl https://raw.githubusercontent.com/aryazand/hff_timeseries-cmv_tb40e_bac/refs/heads/main/bw/12_hpi_flavo_pro-seq_cmv_tb40e_bac_for.bw
 	type bigWig
 	color 113,35,124
 	altColor 113,35,124
@@ -211,7 +211,7 @@ priority 2
 	parent 12_hpi_flavo_pro-seq
 	shortLabel 12_hpi_flavo_pro-seq_reverse
 	longLabel 12_hpi_flavo_pro-seq_reverse
-	bigDataUrl ../../../bw/12_hpi_flavo_pro-seq_cmv_tb40e_bac_rev.bw
+	bigDataUrl https://raw.githubusercontent.com/aryazand/hff_timeseries-cmv_tb40e_bac/refs/heads/main/bw/12_hpi_flavo_pro-seq_cmv_tb40e_bac_rev.bw
 	type bigWig
 	negateValues on
 	color 242,157,228
@@ -236,7 +236,7 @@ priority 2
 	parent 24_hpi_dmso_pro-seq
 	shortLabel 24_hpi_dmso_pro-seq_forwrad
 	longLabel 24_hpi_dmso_pro-seq_forward
-	bigDataUrl ../../../bw/24_hpi_dmso_pro-seq_cmv_tb40e_bac_for.bw
+	bigDataUrl https://raw.githubusercontent.com/aryazand/hff_timeseries-cmv_tb40e_bac/refs/heads/main/bw/24_hpi_dmso_pro-seq_cmv_tb40e_bac_for.bw
 	type bigWig
 	color 113,35,124
 	altColor 113,35,124
@@ -246,7 +246,7 @@ priority 2
 	parent 24_hpi_dmso_pro-seq
 	shortLabel 24_hpi_dmso_pro-seq_reverse
 	longLabel 24_hpi_dmso_pro-seq_reverse
-	bigDataUrl ../../../bw/24_hpi_dmso_pro-seq_cmv_tb40e_bac_rev.bw
+	bigDataUrl https://raw.githubusercontent.com/aryazand/hff_timeseries-cmv_tb40e_bac/refs/heads/main/bw/24_hpi_dmso_pro-seq_cmv_tb40e_bac_rev.bw
 	type bigWig
 	negateValues on
 	color 242,157,228
@@ -271,7 +271,7 @@ priority 2
 	parent 24_hpi_flavo_pro-seq
 	shortLabel 24_hpi_flavo_pro-seq_forwrad
 	longLabel 24_hpi_flavo_pro-seq_forward
-	bigDataUrl ../../../bw/24_hpi_flavo_pro-seq_cmv_tb40e_bac_for.bw
+	bigDataUrl https://raw.githubusercontent.com/aryazand/hff_timeseries-cmv_tb40e_bac/refs/heads/main/bw/24_hpi_flavo_pro-seq_cmv_tb40e_bac_for.bw
 	type bigWig
 	color 113,35,124
 	altColor 113,35,124
@@ -281,7 +281,7 @@ priority 2
 	parent 24_hpi_flavo_pro-seq
 	shortLabel 24_hpi_flavo_pro-seq_reverse
 	longLabel 24_hpi_flavo_pro-seq_reverse
-	bigDataUrl ../../../bw/24_hpi_flavo_pro-seq_cmv_tb40e_bac_rev.bw
+	bigDataUrl https://raw.githubusercontent.com/aryazand/hff_timeseries-cmv_tb40e_bac/refs/heads/main/bw/24_hpi_flavo_pro-seq_cmv_tb40e_bac_rev.bw
 	type bigWig
 	negateValues on
 	color 242,157,228
@@ -306,7 +306,7 @@ priority 2
 	parent 48_hpi_dmso_pro-seq
 	shortLabel 48_hpi_dmso_pro-seq_forwrad
 	longLabel 48_hpi_dmso_pro-seq_forward
-	bigDataUrl ../../../bw/48_hpi_dmso_pro-seq_cmv_tb40e_bac_for.bw
+	bigDataUrl https://raw.githubusercontent.com/aryazand/hff_timeseries-cmv_tb40e_bac/refs/heads/main/bw/48_hpi_dmso_pro-seq_cmv_tb40e_bac_for.bw
 	type bigWig
 	color 113,35,124
 	altColor 113,35,124
@@ -316,7 +316,7 @@ priority 2
 	parent 48_hpi_dmso_pro-seq
 	shortLabel 48_hpi_dmso_pro-seq_reverse
 	longLabel 48_hpi_dmso_pro-seq_reverse
-	bigDataUrl ../../../bw/48_hpi_dmso_pro-seq_cmv_tb40e_bac_rev.bw
+	bigDataUrl https://raw.githubusercontent.com/aryazand/hff_timeseries-cmv_tb40e_bac/refs/heads/main/bw/48_hpi_dmso_pro-seq_cmv_tb40e_bac_rev.bw
 	type bigWig
 	negateValues on
 	color 242,157,228
@@ -341,7 +341,7 @@ priority 2
 	parent 48_hpi_flavo_pro-seq
 	shortLabel 48_hpi_flavo_pro-seq_forwrad
 	longLabel 48_hpi_flavo_pro-seq_forward
-	bigDataUrl ../../../bw/48_hpi_flavo_pro-seq_cmv_tb40e_bac_for.bw
+	bigDataUrl https://raw.githubusercontent.com/aryazand/hff_timeseries-cmv_tb40e_bac/refs/heads/main/bw/48_hpi_flavo_pro-seq_cmv_tb40e_bac_for.bw
 	type bigWig
 	color 113,35,124
 	altColor 113,35,124
@@ -351,7 +351,7 @@ priority 2
 	parent 48_hpi_flavo_pro-seq
 	shortLabel 48_hpi_flavo_pro-seq_reverse
 	longLabel 48_hpi_flavo_pro-seq_reverse
-	bigDataUrl ../../../bw/48_hpi_flavo_pro-seq_cmv_tb40e_bac_rev.bw
+	bigDataUrl https://raw.githubusercontent.com/aryazand/hff_timeseries-cmv_tb40e_bac/refs/heads/main/bw/48_hpi_flavo_pro-seq_cmv_tb40e_bac_rev.bw
 	type bigWig
 	negateValues on
 	color 242,157,228
@@ -376,7 +376,7 @@ priority 2
 	parent 72_hpi_dmso_pro-seq
 	shortLabel 72_hpi_dmso_pro-seq_forwrad
 	longLabel 72_hpi_dmso_pro-seq_forward
-	bigDataUrl ../../../bw/72_hpi_dmso_pro-seq_cmv_tb40e_bac_for.bw
+	bigDataUrl https://raw.githubusercontent.com/aryazand/hff_timeseries-cmv_tb40e_bac/refs/heads/main/bw/72_hpi_dmso_pro-seq_cmv_tb40e_bac_for.bw
 	type bigWig
 	color 113,35,124
 	altColor 113,35,124
@@ -386,7 +386,7 @@ priority 2
 	parent 72_hpi_dmso_pro-seq
 	shortLabel 72_hpi_dmso_pro-seq_reverse
 	longLabel 72_hpi_dmso_pro-seq_reverse
-	bigDataUrl ../../../bw/72_hpi_dmso_pro-seq_cmv_tb40e_bac_rev.bw
+	bigDataUrl https://raw.githubusercontent.com/aryazand/hff_timeseries-cmv_tb40e_bac/refs/heads/main/bw/72_hpi_dmso_pro-seq_cmv_tb40e_bac_rev.bw
 	type bigWig
 	negateValues on
 	color 242,157,228
@@ -411,7 +411,7 @@ priority 2
 	parent 72_hpi_flavo_pro-seq
 	shortLabel 72_hpi_flavo_pro-seq_forwrad
 	longLabel 72_hpi_flavo_pro-seq_forward
-	bigDataUrl ../../../bw/72_hpi_flavo_pro-seq_cmv_tb40e_bac_for.bw
+	bigDataUrl https://raw.githubusercontent.com/aryazand/hff_timeseries-cmv_tb40e_bac/refs/heads/main/bw/72_hpi_flavo_pro-seq_cmv_tb40e_bac_for.bw
 	type bigWig
 	color 113,35,124
 	altColor 113,35,124
@@ -421,7 +421,7 @@ priority 2
 	parent 72_hpi_flavo_pro-seq
 	shortLabel 72_hpi_flavo_pro-seq_reverse
 	longLabel 72_hpi_flavo_pro-seq_reverse
-	bigDataUrl ../../../bw/72_hpi_flavo_pro-seq_cmv_tb40e_bac_rev.bw
+	bigDataUrl https://raw.githubusercontent.com/aryazand/hff_timeseries-cmv_tb40e_bac/refs/heads/main/bw/72_hpi_flavo_pro-seq_cmv_tb40e_bac_rev.bw
 	type bigWig
 	negateValues on
 	color 242,157,228
@@ -446,7 +446,7 @@ priority 2
 	parent 72_hpi_pro-cap
 	shortLabel 72_hpi_pro-cap_forwrad
 	longLabel 72_hpi_pro-cap_forward
-	bigDataUrl ../../../bw/72_hpi_pro-cap_cmv_tb40e_bac_for.bw
+	bigDataUrl https://raw.githubusercontent.com/aryazand/hff_timeseries-cmv_tb40e_bac/refs/heads/main/bw/72_hpi_pro-cap_cmv_tb40e_bac_for.bw
 	type bigWig
 	color 113,35,124
 	altColor 113,35,124
@@ -456,7 +456,7 @@ priority 2
 	parent 72_hpi_pro-cap
 	shortLabel 72_hpi_pro-cap_reverse
 	longLabel 72_hpi_pro-cap_reverse
-	bigDataUrl ../../../bw/72_hpi_pro-cap_cmv_tb40e_bac_rev.bw
+	bigDataUrl https://raw.githubusercontent.com/aryazand/hff_timeseries-cmv_tb40e_bac/refs/heads/main/bw/72_hpi_pro-cap_cmv_tb40e_bac_rev.bw
 	type bigWig
 	negateValues on
 	color 242,157,228
@@ -481,7 +481,7 @@ priority 2
 	parent mock_dmso_pro-seq_2
 	shortLabel mock_dmso_pro-seq_2_forwrad
 	longLabel mock_dmso_pro-seq_2_forward
-	bigDataUrl ../../../bw/mock_dmso_pro-seq_2_cmv_tb40e_bac_for.bw
+	bigDataUrl https://raw.githubusercontent.com/aryazand/hff_timeseries-cmv_tb40e_bac/refs/heads/main/bw/mock_dmso_pro-seq_2_cmv_tb40e_bac_for.bw
 	type bigWig
 	color 113,35,124
 	altColor 113,35,124
@@ -491,7 +491,7 @@ priority 2
 	parent mock_dmso_pro-seq_2
 	shortLabel mock_dmso_pro-seq_2_reverse
 	longLabel mock_dmso_pro-seq_2_reverse
-	bigDataUrl ../../../bw/mock_dmso_pro-seq_2_cmv_tb40e_bac_rev.bw
+	bigDataUrl https://raw.githubusercontent.com/aryazand/hff_timeseries-cmv_tb40e_bac/refs/heads/main/bw/mock_dmso_pro-seq_2_cmv_tb40e_bac_rev.bw
 	type bigWig
 	negateValues on
 	color 242,157,228
