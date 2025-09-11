@@ -1,5 +1,5 @@
 track cmv_tb40e_bac
-type bigGenePred
+type bigBed
 group map
 priority 1
 bigDataUrl cmv_tb40e_bac2.bb
