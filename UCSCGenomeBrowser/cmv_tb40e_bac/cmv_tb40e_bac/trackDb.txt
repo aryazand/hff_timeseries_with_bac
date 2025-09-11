@@ -2,7 +2,7 @@ track cmv_tb40e_bac
 type bigGenePred
 group map
 priority 1
-bigDataUrl cmv_tb40e_bac.bb
+bigDataUrl cmv_tb40e_bac2.bb
 longLabel Annotated CDS for HCMV strain TB40-E (EF999921) with BAC sequence
 shortLabel CMV TB40E, recombinant
 visibility pack
