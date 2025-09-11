@@ -2,7 +2,7 @@ track cmv_tb40e_bac
 type bigGenePred
 group map
 priority 1
-bigDataUrl https://raw.githubusercontent.com/aryazand/hff_timeseries-cmv_tb40e_bac/refs/heads/main/UCSCGenomeBrowser/cmv_tb40e_bac/cmv_tb40e_bac.bb
+bigDataUrl https://raw.githubusercontent.com/aryazand/hff_timeseries-cmv_tb40e_bac/refs/heads/main/UCSCGenomeBrowser/cmv_tb40e_bac/cmv_tb40e_bac/cmv_tb40e_bac.bb
 longLabel Annotated CDS for HCMV strain TB40-E (EF999921) with BAC sequence
 shortLabel CMV TB40E recombinant
 visibility pack
