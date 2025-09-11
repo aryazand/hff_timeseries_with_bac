@@ -1,6 +1,0 @@
-genome cmv_tb40e_bac
-description CMV TB40E recombinant
-trackDb cmv_tb40e_bac/trackDb.txt
-twoBitPath cmv_tb40e_bac/sequence.2bit
-organism cmv_tb40e_bac
-defaultPos cmv_tb40e_bac:1-236618
