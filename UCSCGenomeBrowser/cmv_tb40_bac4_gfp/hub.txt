@@ -1,0 +1,5 @@
+hub cmv_tb40_bac4_gfp
+shortLabel CMV TB40E, recombinant
+longLabel Annotated CDS for HCMV strain TB40-E (EF999921) with BAC sequence
+genomesFile genomes.txt
+email arya-zandvakili@uiowa.edu
