@@ -3,4 +3,4 @@ description CMV TB40E, recombinant
 trackDb cmv_tb40_bac4_gfp/trackDb.txt
 twoBitPath cmv_tb40_bac4_gfp/sequence.2bit
 organism cmv_tb40_bac4_gfp
-defaultPos cmv_tb40_bac4_gfp:1-238078
+defaultPos tb40_bac4_gfp:1-238078
