@@ -26,7 +26,7 @@ priority 2
 	parent 4_hpi_flavo_pro-seq
 	shortLabel 4_hpi_flavo_pro-seq_forwrad
 	longLabel 4_hpi_flavo_pro-seq_forward
-	bigDataUrl ../../../bw/viral_scaled/4_hpi_flavo_pro-seq_cmv_tb40_bac4_gfp_plus.bw
+	bigDataUrl ../../bw/viral_scaled/4_hpi_flavo_pro-seq_cmv_tb40_bac4_gfp_plus.bw
 	type bigWig
 	color 113,35,124
 	altColor 113,35,124
@@ -36,7 +36,7 @@ priority 2
 	parent 4_hpi_flavo_pro-seq
 	shortLabel 4_hpi_flavo_pro-seq_reverse
 	longLabel 4_hpi_flavo_pro-seq_reverse
-	bigDataUrl ../../../bw/viral_scaled/4_hpi_flavo_pro-seq_cmv_tb40_bac4_gfp_minus.bw
+	bigDataUrl ../../bw/viral_scaled/4_hpi_flavo_pro-seq_cmv_tb40_bac4_gfp_minus.bw
 	type bigWig
 	negateValues on
 	color 242,157,228
@@ -61,7 +61,7 @@ priority 2
 	parent 12_hpi_flavo_pro-seq
 	shortLabel 12_hpi_flavo_pro-seq_forwrad
 	longLabel 12_hpi_flavo_pro-seq_forward
-	bigDataUrl ../../../bw/viral_scaled/12_hpi_flavo_pro-seq_cmv_tb40_bac4_gfp_plus.bw
+	bigDataUrl ../../bw/viral_scaled/12_hpi_flavo_pro-seq_cmv_tb40_bac4_gfp_plus.bw
 	type bigWig
 	color 113,35,124
 	altColor 113,35,124
@@ -71,7 +71,7 @@ priority 2
 	parent 12_hpi_flavo_pro-seq
 	shortLabel 12_hpi_flavo_pro-seq_reverse
 	longLabel 12_hpi_flavo_pro-seq_reverse
-	bigDataUrl ../../../bw/viral_scaled/12_hpi_flavo_pro-seq_cmv_tb40_bac4_gfp_minus.bw
+	bigDataUrl ../../bw/viral_scaled/12_hpi_flavo_pro-seq_cmv_tb40_bac4_gfp_minus.bw
 	type bigWig
 	negateValues on
 	color 242,157,228
@@ -96,7 +96,7 @@ priority 2
 	parent 24_hpi_flavo_pro-seq
 	shortLabel 24_hpi_flavo_pro-seq_forwrad
 	longLabel 24_hpi_flavo_pro-seq_forward
-	bigDataUrl ../../../bw/viral_scaled/24_hpi_flavo_pro-seq_cmv_tb40_bac4_gfp_plus.bw
+	bigDataUrl ../../bw/viral_scaled/24_hpi_flavo_pro-seq_cmv_tb40_bac4_gfp_plus.bw
 	type bigWig
 	color 113,35,124
 	altColor 113,35,124
@@ -106,7 +106,7 @@ priority 2
 	parent 24_hpi_flavo_pro-seq
 	shortLabel 24_hpi_flavo_pro-seq_reverse
 	longLabel 24_hpi_flavo_pro-seq_reverse
-	bigDataUrl ../../../bw/viral_scaled/24_hpi_flavo_pro-seq_cmv_tb40_bac4_gfp_minus.bw
+	bigDataUrl ../../bw/viral_scaled/24_hpi_flavo_pro-seq_cmv_tb40_bac4_gfp_minus.bw
 	type bigWig
 	negateValues on
 	color 242,157,228
@@ -131,7 +131,7 @@ priority 2
 	parent 48_hpi_flavo_pro-seq
 	shortLabel 48_hpi_flavo_pro-seq_forwrad
 	longLabel 48_hpi_flavo_pro-seq_forward
-	bigDataUrl ../../../bw/viral_scaled/48_hpi_flavo_pro-seq_cmv_tb40_bac4_gfp_plus.bw
+	bigDataUrl ../../bw/viral_scaled/48_hpi_flavo_pro-seq_cmv_tb40_bac4_gfp_plus.bw
 	type bigWig
 	color 113,35,124
 	altColor 113,35,124
@@ -141,7 +141,7 @@ priority 2
 	parent 48_hpi_flavo_pro-seq
 	shortLabel 48_hpi_flavo_pro-seq_reverse
 	longLabel 48_hpi_flavo_pro-seq_reverse
-	bigDataUrl ../../../bw/viral_scaled/48_hpi_flavo_pro-seq_cmv_tb40_bac4_gfp_minus.bw
+	bigDataUrl ../../bw/viral_scaled/48_hpi_flavo_pro-seq_cmv_tb40_bac4_gfp_minus.bw
 	type bigWig
 	negateValues on
 	color 242,157,228
@@ -167,7 +167,7 @@ priority 2
 	parent 72_hpi_flavo_pro-seq
 	shortLabel 72_hpi_flavo_pro-seq_forwrad
 	longLabel 72_hpi_flavo_pro-seq_forward
-	bigDataUrl ../../../bw/viral_scaled/72_hpi_flavo_pro-seq_cmv_tb40_bac4_gfp_plus.bw
+	bigDataUrl ../../bw/viral_scaled/72_hpi_flavo_pro-seq_cmv_tb40_bac4_gfp_plus.bw
 	type bigWig
 	color 113,35,124
 	altColor 113,35,124
@@ -177,7 +177,7 @@ priority 2
 	parent 72_hpi_flavo_pro-seq
 	shortLabel 72_hpi_flavo_pro-seq_reverse
 	longLabel 72_hpi_flavo_pro-seq_reverse
-	bigDataUrl ../../../bw/viral_scaled/72_hpi_flavo_pro-seq_cmv_tb40_bac4_gfp_minus.bw
+	bigDataUrl ../../bw/viral_scaled/72_hpi_flavo_pro-seq_cmv_tb40_bac4_gfp_minus.bw
 	type bigWig
 	negateValues on
 	color 242,157,228
