@@ -1,1 +1,1 @@
-<https://genome.ucsc.edu/cgi-bin/hgTracks?genome=cmv_tb40_bac4_gfp&hubUrl=https://raw.githubusercontent.com/aryazand/hff_timeseries-cmv_tb40e_bac/refs/heads/main/UCSCGenomeBrowser/cmv_tb40_bac_gfp/hub.txt>
+<https://genome.ucsc.edu/cgi-bin/hgTracks?genome=cmv_tb40_bac4_gfp&hubUrl=https://raw.githubusercontent.com/aryazand/hff_timeseries_with_bac/refs/heads/main/UCSCGenomeBrowser/cmv_tb40_bac4_gfp/hub.txt>
