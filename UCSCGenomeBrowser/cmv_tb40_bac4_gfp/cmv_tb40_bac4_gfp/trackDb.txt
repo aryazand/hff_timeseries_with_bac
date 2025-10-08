@@ -19,12 +19,11 @@ longLabel 4_hpi_flavo_pro-seq
 visibility full
 autoScale group
 maxHeightPixels 100:50:8
-type bigWig
 priority 2
 
 	track 4_hpi_flavo_pro-seq_for
 	parent 4_hpi_flavo_pro-seq
-	shortLabel 4_hpi_flavo_pro-seq_forwrad
+	shortLabel 4_hpi_flavo_pro-seq_forward
 	longLabel 4_hpi_flavo_pro-seq_forward
 	bigDataUrl ../../bw/viral_scaled/4_hpi_flavo_pro-seq_cmv_tb40_bac4_gfp_plus.bw
 	type bigWig
@@ -54,12 +53,11 @@ longLabel 12_hpi_flavo_pro-seq
 visibility full
 autoScale group
 maxHeightPixels 100:50:8
-type bigWig
 priority 2
 
 	track 12_hpi_flavo_pro-seq_for
 	parent 12_hpi_flavo_pro-seq
-	shortLabel 12_hpi_flavo_pro-seq_forwrad
+	shortLabel 12_hpi_flavo_pro-seq_forward
 	longLabel 12_hpi_flavo_pro-seq_forward
 	bigDataUrl ../../bw/viral_scaled/12_hpi_flavo_pro-seq_cmv_tb40_bac4_gfp_plus.bw
 	type bigWig
@@ -89,12 +87,11 @@ longLabel 24_hpi_flavo_pro-seq
 visibility full
 autoScale group
 maxHeightPixels 100:50:8
-type bigWig
 priority 2
 
 	track 24_hpi_flavo_pro-seq_for
 	parent 24_hpi_flavo_pro-seq
-	shortLabel 24_hpi_flavo_pro-seq_forwrad
+	shortLabel 24_hpi_flavo_pro-seq_forward
 	longLabel 24_hpi_flavo_pro-seq_forward
 	bigDataUrl ../../bw/viral_scaled/24_hpi_flavo_pro-seq_cmv_tb40_bac4_gfp_plus.bw
 	type bigWig
@@ -124,12 +121,11 @@ longLabel 48_hpi_flavo_pro-seq
 visibility full
 autoScale group
 maxHeightPixels 100:50:8
-type bigWig
 priority 2
 
 	track 48_hpi_flavo_pro-seq_for
 	parent 48_hpi_flavo_pro-seq
-	shortLabel 48_hpi_flavo_pro-seq_forwrad
+	shortLabel 48_hpi_flavo_pro-seq_forward
 	longLabel 48_hpi_flavo_pro-seq_forward
 	bigDataUrl ../../bw/viral_scaled/48_hpi_flavo_pro-seq_cmv_tb40_bac4_gfp_plus.bw
 	type bigWig
@@ -160,12 +156,11 @@ longLabel 72_hpi_flavo_pro-seq
 visibility full
 autoScale group
 maxHeightPixels 100:50:8
-type bigWig
 priority 2
 
 	track 72_hpi_flavo_pro-seq_for
 	parent 72_hpi_flavo_pro-seq
-	shortLabel 72_hpi_flavo_pro-seq_forwrad
+	shortLabel 72_hpi_flavo_pro-seq_forward
 	longLabel 72_hpi_flavo_pro-seq_forward
 	bigDataUrl ../../bw/viral_scaled/72_hpi_flavo_pro-seq_cmv_tb40_bac4_gfp_plus.bw
 	type bigWig
