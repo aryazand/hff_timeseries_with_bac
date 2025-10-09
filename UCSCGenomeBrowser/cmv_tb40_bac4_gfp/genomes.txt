@@ -1,4 +1,4 @@
-genome cmv_tb40_bac4_gfp
+genome tb40_bac4_gfp
 description CMV TB40E, recombinant
 trackDb cmv_tb40_bac4_gfp/trackDb.txt
 twoBitPath cmv_tb40_bac4_gfp/sequence.2bit
