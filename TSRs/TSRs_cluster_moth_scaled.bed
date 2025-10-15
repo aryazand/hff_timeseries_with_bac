@@ -1,3 +1,4 @@
+track name="TSRs_cluster_viral_scaled" description="Clusters" itemRgb="On"
 tb40_bac4_gfp	183	194	Cluster_1	688.3307495	-	183	194	228,26,28
 tb40_bac4_gfp	738	751	Cluster_2	2937.953125	+	738	751	55,126,184
 tb40_bac4_gfp	2526	2537	Cluster_2	594.0637817	+	2526	2537	55,126,184
